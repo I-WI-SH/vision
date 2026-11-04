@@ -1,0 +1,10 @@
+ftfy
+regex
+tqdm
+torchattacks
+fastapi
+pydantic
+uvicorn
+httpx
+pytest
+aria2
